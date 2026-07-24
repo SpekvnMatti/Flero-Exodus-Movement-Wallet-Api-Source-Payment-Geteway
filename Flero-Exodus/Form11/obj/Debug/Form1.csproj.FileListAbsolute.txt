@@ -1,0 +1,2 @@
+D:\GithubNew\3\exodus3\Exodus3\Flero-Exodus\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\3\exodus3\Exodus3\Flero-Exodus\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
